@@ -9,7 +9,7 @@ Documentația (Proiect_ReteleCalculatoare.docx): descrie topologia, alocările d
 
 Diagrame și scheme:
 
-hartafizica.png → topologia fizică a rețelei https://github.com/georgianamadalinaa/Proiect-Retele-Calculatoare/blob/main/hartafizica%201.png
+hartafizica.png → topologia fizică a rețelei https://github.com/georgianamadalinaa/Proiect-Retele-Calculatoare/blob/main/hartafizica%201.png?raw=true
 
 hartalogica.png → topologia logică a rețelei 
 
