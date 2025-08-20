@@ -9,10 +9,10 @@ Documentația (Proiect_ReteleCalculatoare.docx): descrie topologia, alocările d
 
 Diagrame și scheme:
 
-hartafizica.png → topologia fizică a rețelei
+hartafizica.png → topologia fizică a rețelei images/hartafizica 1.png 
 
-hartalogica.png → topologia logică a rețelei
+hartalogica.png → topologia logică a rețelei images/hartalogica 1.png
 
-aloc.png → schema de alocare a adreselor IP
+aloc.png → schema de alocare a adreselor IP images/aloc.png
 
-hs.png → configurări și capturi ale echipamentelor
+hs.png → configurări și capturi ale echipamentelor images/hs 1.png
